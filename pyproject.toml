@@ -6,7 +6,7 @@ authors = [
 ]
 description = "A user management CLI tool for AWS Redshift."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.13"
 license = {text="GPL-3.0-or-later"}
 
 dependencies = [
